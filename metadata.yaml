@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8763
     wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25267#Astronomy-for-Amateurs
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2008-04-30'
 gutenberg_type: Text
