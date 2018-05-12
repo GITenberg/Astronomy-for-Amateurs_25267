@@ -1,0 +1,37 @@
+_repo: Astronomy-for-Amateurs_25267
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Welby, Frances A. (Frances Alice)
+    alias: Welby, Frances Alice
+    gutenberg_agent_id: '31198'
+    url: http://www.gutenberg.org/2009/agents/31198
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flammarion, Camille
+    aliases:
+    - Flammarion, Nicolas Camille
+    - Filamaryon, Kamil
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2008-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcc 'QB'
+title: Astronomy for Amateurs
+url: http://www.gutenberg.org/ebooks/25267
